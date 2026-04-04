@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fire&height=200&section=header&text=Oussama%20Dev&fontSize=40&fontColor=fff"/>
 ## 🌐 cyber learner
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -6,5 +8,5 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
-![Typing](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&lines=🔥+Cybersecurity+Learner;🔥+C+Programmer;🔥+Future+Hacker)
+
 
