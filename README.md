@@ -6,3 +6,4 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Oussama)
