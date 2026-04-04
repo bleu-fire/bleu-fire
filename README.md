@@ -9,3 +9,4 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=200&section=header&text=🔥%203AFIA%20DEV&fontSize=40&fontColor=ffffff"/>
