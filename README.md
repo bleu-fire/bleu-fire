@@ -23,16 +23,16 @@ Passionate cybersecurity enthusiast dedicated to securing systems and protecting
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Core Competencies
-- 🔍 **Penetration Testing** - Network & Web Application Security
-- 🛡️ **Threat Analysis** - Vulnerability Assessment & Management
 - 🔐 **Cryptography** - Encryption & Security Protocols
-- 🚨 **Incident Response** - Threat Detection & Mitigation
+- 🚨 **CVE Searching** - Threat Detection & Mitigation
 - 📊 **Network Security** - Firewalls, IDS/IPS, VPN Configuration
+- 🔩 **reverse engeering** -  debugger ,decompling,static analysis
 
-## 📚 Certifications & Learning
-- CompTIA Security+
+## 📚  Learning
+
 - Ethical Hacking Fundamentals
 - Linux System Administration
-- Web Application Security
 
 ## 🎯 Current Focus
+**CTF player**
+**C language lover**
