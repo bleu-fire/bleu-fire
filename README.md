@@ -1,4 +1,4 @@
-# 🔐 Oussama - Cybersecurity Professional
+# 🔐 Oussama - Cybersecurity learner
 
 ## 👨‍💻 About Me
 noob in cyber scurity  
@@ -14,7 +14,7 @@ noob in cyber scurity
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/perl-%23121011.svg?style=for-the-badge&logo=perl&logoColor=white)
+![Bash](https://img.shields.io/badge/perl-%088F8F.svg?style=for-the-badge&logo=perl&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
