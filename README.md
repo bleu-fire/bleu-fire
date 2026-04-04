@@ -7,5 +7,5 @@
 ## 🐱‍💻 my world !!
 ![Terminal](https://readme-typing-svg.herokuapp.com?color=00FF00&background=000000&lines=Initializing+system...;Access+granted+✔;Loading+modules...;Welcome+Oussama+👾)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
 
