@@ -1,7 +1,7 @@
 # 🔐 Oussama - Cybersecurity Professional
 
 ## 👨‍💻 About Me
-Passionate cybersecurity enthusiast dedicated to securing systems and protecting digital assets. Experienced in penetration testing, network security, and system hardening.
+noob in cyber scurity  
 
 ## 🛡️ Technical Skills
 
