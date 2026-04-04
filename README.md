@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Terminal](https://readme-typing-svg.herokuapp.com?color=00FF00&background=000000&lines=Initializing+system...;Access+granted+✔;Loading+modules...;Welcome+Oussama+👾)
+![Terminal](https://readme-typing-svg.herokuapp.com?color=00FF00&background=000000&lines=system+acess✔;Loading+CCFBS...;Welcome+to+ my world)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
