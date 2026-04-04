@@ -6,5 +6,5 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+![Typing](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&lines=🔥+Cybersecurity+Learner;🔥+C+Programmer;🔥+Future+Hacker)
 
