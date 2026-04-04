@@ -5,5 +5,5 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=097969&lines=Cybersecurity+Learner;C+Programmer;CTF+Player)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Oussama)
