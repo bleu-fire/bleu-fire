@@ -1,73 +1,45 @@
-<!-- 🔥 CYBERPUNK HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=CTF+Player+%7C+Reverse+Engineering+Lover;Cybersecurity+Enthusiast;Binary+Exploitation+%7C+Pwn;Learning+Never+Stops..." />
-</p>
+# 0x00 | Security Researcher & Malware Analyst 🛡️
+
+### ⚡ "Deciling the binary, one syscall at a time."
 
 ---
 
-<!-- 💀 STRIKE LINE -->
-<h3 align="center"><s>Just another developer</s></h3>
-<h3 align="center">⚡ Cyber Security | CTF | Reverse Engineering ⚡</h3>
+## 🛠️ Technical Arsenal
+
+### 💻 Languages & Core
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔍 Cyber Security & RE
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E44D26?style=for-the-badge&logo=target&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-333333?style=for-the-badge&logo=ghidra&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 🐧 Environment
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Zsh](https://img.shields.io/badge/ZSH-%23000000.svg?style=for-the-badge&logo=zsh&logoColor=yellow)
 
 ---
 
-<!-- 🧠 ABOUT -->
-<p align="center">
-💻 Passionate about breaking things to understand them <br>
-🧩 CTF player focused on PWN & Reverse Engineering <br>
-🔬 Malware Analysis (Educational Purpose Only) <br>
-🐧 Linux Lover
-</p>
+## 🚩 CTF & Research Projects
+* **[TCP-Server-C]**: A high-performance, low-level server built from scratch using C sockets.
+* **[Malware-Sandbox]**: Automated analysis scripts for dynamic behavioral tracking.
+* **[TS-Payload-Gen]**: TypeScript-based generator for cross-platform security testing payloads.
 
 ---
 
-<!-- 🏷️ BADGES -->
-<p align="center">
-
-<!-- LANGUAGES -->
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF00"/>
-
-<!-- CYBER -->
-<img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logo=hackaday&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Binary%20Exploitation-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge&logo=virustotal&logoColor=00FF00"/>
-
-<!-- TOOLS -->
-<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF00"/>
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
-
-</p>
+## 📊 Stats & Activity
+| **GitHub Metrics** | **Language Distribution** |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
-<!-- ⚡ STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oussama&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-<!-- 🐍 SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oussama/Oussama/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- 💀 FOOTER -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-HACKING%20THE%20PLANET-00FF00?style=for-the-badge"/>
-</p>
+## 🌐 Connect with Me
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
