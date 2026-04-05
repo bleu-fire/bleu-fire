@@ -1,11 +1,13 @@
-# 0x00 | Security Researcher & Malware Analyst 🛡️
 
-### ⚡ "Deciling the binary, one syscall at a time."
+# <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9FEF00&vCenter=true&width=435&lines=0x00+|+CTF+Player;Reverse+Engineer;Malware+Analyst;Cyber+Security+Lover" alt="Typing SVG" />
+  </a>
+</div>
 
----
+
 
 ## 🛠️ Technical Arsenal
-
 ### 💻 Languages & Core
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
