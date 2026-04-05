@@ -29,6 +29,7 @@
 
 ## 🚩 CTF & Research Projects
 * **[TCP-Server-C]**: A high-performance, low-level server built from scratch using C sockets.
+* ![Snake Animation](https://github.com/bleu-fire/bleu-fire/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect with Me
 [![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
