@@ -27,16 +27,6 @@
 
 ## 🚩 CTF & Research Projects
 * **[TCP-Server-C]**: A high-performance, low-level server built from scratch using C sockets.
-* **[Malware-Sandbox]**: Automated analysis scripts for dynamic behavioral tracking.
-
----
-
-## 📊 Stats & Activity
-| **GitHub Metrics** | **Language Distribution** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Oussama&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama&layout=compact&theme=tokyonight&hide_border=true) |
-
----
 
 ## 🌐 Connect with Me
 [![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
