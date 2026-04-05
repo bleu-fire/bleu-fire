@@ -28,7 +28,6 @@
 ## 🚩 CTF & Research Projects
 * **[TCP-Server-C]**: A high-performance, low-level server built from scratch using C sockets.
 * **[Malware-Sandbox]**: Automated analysis scripts for dynamic behavioral tracking.
-* **[TS-Payload-Gen]**: TypeScript-based generator for cross-platform security testing payloads.
 
 ---
 
