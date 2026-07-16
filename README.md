@@ -1,31 +1,93 @@
+<div align="center">
 
-# <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9FEF00&vCenter=true&width=435&lines=0x00+|+CTF+Player;Reverse+Engineer;Malware+Analyst;Cyber+Security+Lover" alt="Typing SVG" />
-  </a>
+# 0x00
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=700&lines=CTF+Player;Reverse+Engineer;Malware+Analyst;Cyber+Security+Enthusiast;Arch+Linux+User" />
+</a>
+
 </div>
-
-
-
-## 🛠️ Technical Arsenal
-### 💻 Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
-[![C++](https://shields.io)]
-
-### 🔍 Cyber Security & RE
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E44D26?style=for-the-badge&logo=target&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-333333?style=for-the-badge&logo=ghidra&logoColor=white)
-![Wireshark](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
-
-### 🐧 Environment
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Zsh](https://img.shields.io/badge/ZSH-%23000000.svg?style=for-the-badge&logo=zsh&logoColor=yellow)
 
 ---
 
-## 🚩 CTF & Research Projects
-* **[TCP-Server-C]**: A high-performance, low-level server built from scratch using C sockets.
-## 🌐 Connect with Me
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,bash,python,linux,git,docker,vscode&theme=dark"/>
+</p>
+
+## Reverse Engineering & Malware Analysis
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ghidra,ida,wireshark,gdb,radare2,burpsuite&theme=dark"/>
+</p>
+
+## Operating System
+
+<p>
+<img src="https://skillicons.dev/icons?i=arch&theme=dark"/>
+</p>
+
+---
+
+# 🚩 Projects
+
+### TCP-Server-C
+
+> High-performance TCP server built from scratch using POSIX sockets and multithreading in C.
+
+### Malware Playground
+
+> Collection of malware analysis notes, unpacking techniques and reverse engineering writeups.
+
+### CTF Writeups
+
+> Binary Exploitation • Reverse Engineering • Web • Forensics • Crypto
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bluefire&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bluefire&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefire&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p>
+
+<a href="https://tryhackme.com/p/bluefire">
+<img src="https://skillicons.dev/icons?i=tryhackme"/>
+</a>
+
+<a href="https://github.com/bluefire">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bluefire">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=bluefire&style=flat-square&color=9FEF00)
+
+</p>
