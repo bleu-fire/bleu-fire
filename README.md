@@ -62,9 +62,3 @@
 </a>
 
 </p>
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=bleu-fire&style=flat-square&color=9FEF00)
-
-</p>
