@@ -52,15 +52,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bluefire&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bleu-fire&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bluefire&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bleu-fire&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefire&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleu-fire&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
@@ -70,15 +70,15 @@
 
 <p>
 
-<a href="https://tryhackme.com/p/bluefire">
+<a href="https://tryhackme.com/p/bleu-fire">
 <img src="https://skillicons.dev/icons?i=tryhackme"/>
 </a>
 
-<a href="https://github.com/bluefire">
+<a href="https://github.com/bleu-fire">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bluefire">
+<a href="https://www.linkedin.com/in/bleu-fire">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -88,6 +88,6 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=bluefire&style=flat-square&color=9FEF00)
+![](https://komarev.com/ghpvc/?username=bleu-fire&style=flat-square&color=9FEF00)
 
 </p>
