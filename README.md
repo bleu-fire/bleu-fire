@@ -16,7 +16,7 @@
 ## Reverse Engineering & Malware Analysis
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ghidra,ida,wireshark,gdb,radare2,burpsuite&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&theme=dark"/>
 </p>
 
 ## Operating System
