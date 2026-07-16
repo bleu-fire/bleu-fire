@@ -12,7 +12,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
-![C++](https://shields.io)
+<img src="https://githubusercontent.com" width="30" height="30" alt="C++ Logo" />
 
 ### 🔍 Cyber Security & RE
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E44D26?style=for-the-badge&logo=target&logoColor=white)
