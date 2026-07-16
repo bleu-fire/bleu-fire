@@ -12,12 +12,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
-<img src="https://githubusercontent.com" width="30" height="30" alt="C++ Logo" />
+[![C++](https://shields.io)]
 
 ### 🔍 Cyber Security & RE
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-E44D26?style=for-the-badge&logo=target&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-333333?style=for-the-badge&logo=ghidra&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
 
 ### 🐧 Environment
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
