@@ -44,22 +44,6 @@
 > Binary Exploitation • Reverse Engineering • Web • Forensics • Crypto
 
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bleu-fire&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bleu-fire&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleu-fire&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
 
 # 🌐 Connect
 
