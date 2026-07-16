@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 # 💻 Tech Stack
 
 ## Languages
@@ -30,7 +28,6 @@
 <img src="https://skillicons.dev/icons?i=arch&theme=dark"/>
 </p>
 
----
 
 # 🚩 Projects
 
@@ -46,7 +43,6 @@
 
 > Binary Exploitation • Reverse Engineering • Web • Forensics • Crypto
 
----
 
 # 📈 GitHub Stats
 
@@ -64,7 +60,6 @@
 
 </p>
 
----
 
 # 🌐 Connect
 
@@ -83,8 +78,6 @@
 </a>
 
 </p>
-
----
 
 <p align="center">
 
