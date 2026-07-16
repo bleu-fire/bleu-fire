@@ -10,7 +10,12 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,bash,python,linux,git,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,bash,python,linux&theme=dark"/>
+</p>
+
+## tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,vscode&theme=dark"/>
 </p>
 
 ## Reverse Engineering & Malware Analysis
