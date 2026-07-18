@@ -33,10 +33,6 @@
 
 # 🚩 Projects
 
-### TCP-Server-C
-
-> High-performance TCP server built from scratch using POSIX sockets and multithreading in C.
-
 ### Malware Playground
 
 > Collection of malware analysis notes, unpacking techniques and reverse engineering writeups.
