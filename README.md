@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode&theme=dark"/>
 </p>
 
-## Reverse Engineering & Malware Analysis
+## CyberScurity researcher and  Writeup Reader 
 
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&theme=dark"/>
