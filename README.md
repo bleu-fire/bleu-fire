@@ -1,8 +1,4 @@
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=700&lines=CTF+Player;Reverse+Engineer;Writeup+Reader;Cyber+Security+Enthusiast;Arch+Linux+User" />
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BA900&width=435&lines=writeUp+Reader;CTF-player;Full+Stack)](https://git.io/typing-svg)
 </div>
 
 # 💻 Tech Stack
