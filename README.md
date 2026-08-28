@@ -1,44 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BA900&width=435&lines=writeUp+Reader;CTF-player;Full+Stack)](https://git.io/typing-svg)
 </div>
-
-# 💻 Tech Stack
-
 ## Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,bash,python&theme=dark"/>
 </p>
-
 ## tools
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode&theme=dark"/>
 </p>
-
 ## CyberScurity researcher and  Writeup Reader 
-
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&theme=dark"/>
 </p>
-
-## Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=arch&theme=dark"/>
-</p>
-
-
-# 🚩 Projects
-
-### Malware Playground
-
-> Collection of malware analysis notes, unpacking techniques and reverse engineering writeups.
-
-### CTF Writeups
-
-> Binary Exploitation • Reverse Engineering • Web • Forensics • Crypto
-
-
-
 # 🌐 Connect
 
 <p>
