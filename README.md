@@ -12,7 +12,7 @@ CyberScurity researcher and  Writeup Reader
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&theme=dark"/>
 </p>
-🌐 Connect
+Connect
 
 <p>
 <a href="https://github.com/bleu-fire">
