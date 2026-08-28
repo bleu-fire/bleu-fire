@@ -15,9 +15,6 @@ CyberScurity researcher and  Writeup Reader
 🌐 Connect
 
 <p>
-<a href="https://tryhackme.com/p/bleu-fire">
-<img src="https://skillicons.dev/icons?i=tryhackme"/>
-</a>
 <a href="https://github.com/bleu-fire">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
